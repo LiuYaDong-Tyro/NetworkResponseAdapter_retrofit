@@ -1,6 +1,6 @@
 package com.haroldadmin
 
 public class TestGit {
-    public var a : String = "dd"
+    public var a : String = "ee"
     public var b : String = "bb"
 }
