@@ -7,4 +7,5 @@ public class TestGit {
     public var d : String = "dd"
     public var e : String = "ee"
     public var g : String = "gg"
+    public var f : String = "ff"
 }
